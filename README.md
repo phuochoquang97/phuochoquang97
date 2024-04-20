@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phuoc</h1>
-<h3 align="center">A passionate mathematics and statistics</h3>
 
 - 🌱 I’m currently studying Master Data Science at Paris-Saclay University
 
