@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phuoc</h1>
 
-- 🌱 I’m currently studying Master Data Science at Paris-Saclay University
+- 🌱 I’m currently studying Master Mathématiques, Vision, Apprentissage (MVA) at ENS Paris-Saclay
 
 - 📫 How to reach me **phuochoquang97@gmail.com**
 
